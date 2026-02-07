@@ -6,9 +6,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidsyagustin@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://davidagustin.github.io)
 
----
+I build interactive developer tools and learning platforms used for mastering programming. 20+ shipped projects, 8,700+ coding problems authored, and 13,995 automated tests across 25 programming languages.
 
-I build interactive developer tools and learning platforms. 20+ shipped projects, 8,700+ coding problems authored, 13,995 automated tests, and deployments across Vercel, Cloudflare Workers, AWS, Azure, Netlify, and Heroku.
+---
 
 ## Tech Stack
 
@@ -22,43 +22,153 @@ I build interactive developer tools and learning platforms. 20+ shipped projects
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## By the Numbers
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **20+** | **8,700+** | **13,995** | **25** |
+| Projects Shipped | Coding Problems | Automated Tests | Languages |
+| **706+** | **100** | **121** | **10+** |
+| UI Patterns & Components | AI Mock Interview Questions | Detective Investigation Cases | Cloud Platforms |
 
 ---
 
 ## Featured Projects
 
-### [Coding Drills](https://coding-drills.vercel.app) — Interactive Programming Practice Platform
-8,700+ problems across 25 languages, 13,995 tests, AI mock interviews, 616 UI patterns, and in-browser code execution with Monaco Editor and WebLLM.
+### Coding Drills - Interactive Programming Practice Platform
+An interactive learning platform for mastering programming languages through hands-on practice. Thousands of problems across 25 languages and 4 frontend frameworks, with real-time code execution, algorithm visualizations, AI mock interviews, regex training, and more.
 
-**Next.js 16 / React 19 / TypeScript / Tailwind CSS 4 / Playwright / Vitest** — [GitHub](https://github.com/davidagustin/coding-drills)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://coding-drills.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/coding-drills)
 
----
+**Tech Stack**: Next.js 16, React 19, TypeScript, Tailwind CSS 4, Monaco Editor, WebLLM, Playwright, Vitest
 
-### [Spell Your Name](https://spell-your-name.vercel.app/) — AI-Powered Sign Language Learning
-Real-time hand tracking with MediaPipe to teach American Sign Language. AI-powered gesture recognition with personalized learning.
-
-**Next.js 15 / React 19 / TypeScript / MediaPipe Hands** — [GitHub](https://github.com/davidagustin/spell-your-name)
-
----
-
-### [Backend Engineer Detective](https://backend-engineer-detective.app-production.workers.dev/) — Incident Investigation Game
-121 investigation cases across 11 categories. Analyze logs, metrics, code, and testimonies to diagnose root causes, from Junior to Principal difficulty.
-
-**Cloudflare Workers / TypeScript** — [GitHub](https://github.com/davidagustin/backend-engineer-detective)
+**Key Features**:
+- 25 languages with drill, quiz, and study modes
+- 170 algorithm pattern recognition problems
+- AI mock interviews (algorithm + system design)
+- 460 frontend drill problems + 616 UI patterns across React, Angular, Vue, and Native JS
 
 ---
 
-## More Projects
+### Spell Your Name - AI-Powered Sign Language Learning
+Learn to spell your name in American Sign Language with real-time AI-powered hand tracking using MediaPipe. Features personalized learning experience and comprehensive ASL alphabet reference.
 
-| Project | What It Does | Live Demo |
-|---------|-------------|-----------|
-| **Coding Tricks Practice** | 155+ JS/TS challenges with sandboxed test runner | [coding-tricks-practice.vercel.app](https://coding-tricks-practice.vercel.app) |
-| **UI Patterns React** | 90+ production-ready React components, WCAG 2.1 AA | [ui-patterns-react.vercel.app](https://ui-patterns-react.vercel.app/) |
-| **System Design Practice** | 50 topics, 40 concepts, 60 quiz questions | [system-design-practice.vercel.app](https://system-design-practice.vercel.app/) |
-| **React 30** | JavaScript30 rebuilt as type-safe React/TypeScript | [react-30-nu.vercel.app](https://react-30-nu.vercel.app) |
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://spell-your-name.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/spell-your-name)
 
-Full portfolio with 20+ projects: [davidagustin.github.io](https://davidagustin.github.io)
+**Tech Stack**: Next.js 15.4.5, React 19, TypeScript, Tailwind CSS, MediaPipe Hands
+
+**Key Features**:
+- Real-time hand tracking with AI
+- AI-powered gesture recognition
+- Personalized learning experience
+- Comprehensive ASL alphabet guide
+
+---
+
+### Backend Engineer Detective - Interactive Incident Investigation Game
+An interactive detective game where you investigate real-world backend engineering incidents. Analyze logs, metrics, code, and testimonies to diagnose root causes with an AI mentor to guide your investigation.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=cloudflare&logoColor=white)](https://backend-engineer-detective.app-production.workers.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/backend-engineer-detective)
+
+**Tech Stack**: Cloudflare Workers, TypeScript
+
+**Key Features**:
+- 121 investigation cases across 11 categories
+- Junior to Principal difficulty levels
+- Analyze logs, metrics, code, and testimonies
+- AI mentor guidance
+
+---
+
+### Coding Tricks Practice - LeetCode-Style Coding Platform
+A LeetCode-style coding platform focused on JavaScript and TypeScript mastery. Features 155+ challenges across 19 categories with Monaco Editor integration, sandboxed test runner, progress tracking, and real-time code validation.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://coding-tricks-practice.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/coding-tricks-practice)
+
+**Tech Stack**: Next.js, TypeScript, Monaco Editor
+
+**Key Features**:
+- 155+ coding challenges
+- 19 categories of problems
+- 40+ test suites with sandboxed runner
+- Progress tracking and real-time validation
+
+---
+
+### UI Patterns React - Production-Ready Component Collection
+Production-ready collection of 90+ modern React UI patterns and components. Includes interactive event calendars, advanced data tables, drag-and-drop interfaces, form patterns, navigation systems, and data visualizations.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://ui-patterns-react.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/ui-patterns-react)
+
+**Tech Stack**: React, TypeScript, Next.js
+
+**Key Features**:
+- 90+ production-ready components
+- 5 pattern categories
+- Interactive event calendars and data tables
+- Drag-and-drop interfaces
+
+---
+
+### System Design Practice - Interactive Learning Platform
+Interactive learning platform for mastering system design interviews. Covers 50 study topics, 40 core concepts, and 60 quiz questions spanning load balancing, database replication, caching strategies, microservices, event-driven architecture, and more.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://system-design-practice.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/system-design-practice)
+
+**Tech Stack**: Next.js, TypeScript, Tailwind CSS
+
+**Key Features**:
+- 50 study topics with detailed explanations
+- 40 core system design concepts
+- 60 quiz questions
+- Covers load balancing, caching, microservices, and more
+
+---
+
+### React 30 - Modern React Reimagining of JavaScript30
+Modern React reimagining of Wes Bos's JavaScript30 course. All 30 vanilla JS projects rebuilt as type-safe React components using Next.js, TypeScript, and Tailwind CSS — covering DOM manipulation, Canvas API, WebRTC, Speech Recognition, Geolocation, and more.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://react-30-nu.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/react-30)
+
+**Tech Stack**: Next.js, React, TypeScript, Tailwind CSS
+
+**Key Features**:
+- 30 projects rebuilt in modern React
+- Canvas API, WebRTC, Speech Recognition
+- Fully responsive and type-safe
+- Learn React patterns through practical projects
+
+---
+
+## Key Strengths
+
+- **Frontend Excellence**: 20+ production apps across React, Angular, Vue, Svelte, Astro, and Gatsby — all fully responsive
+- **Developer Tooling**: Built platforms with 8,700+ coding problems, in-browser execution, and 13,995 automated tests
+- **AI Integration**: Real-time MediaPipe hand tracking, offline WebLLM AI tutors, and 100 AI mock interview questions
+- **Multi-Cloud Deployment**: Shipped to 10+ platforms including Vercel, Cloudflare Workers, AWS, Azure, Netlify, and Heroku
+
+---
+
+## Currently Working On
+
+- Expanding Coding Drills with new languages and algorithm visualizations
+- Building AI-powered developer education tools
+- Creating production-ready UI component libraries
+- Exploring in-browser AI with WebLLM and WebGPU
