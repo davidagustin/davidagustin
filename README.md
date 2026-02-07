@@ -2,13 +2,22 @@
 
 ## 🚀 Full Stack Developer
 
-I'm a passionate full-stack developer who builds interactive developer tools and learning platforms. I specialize in modern web technologies and AI integration, creating applications that help developers level up their skills.
+I build interactive developer tools and learning platforms used for mastering programming. 20+ shipped projects, 8,700+ coding problems authored, and 13,995 automated tests across 25 programming languages.
+
+### 📊 By the Numbers
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **20+** | **8,700+** | **13,995** | **25** |
+| Projects Shipped | Coding Problems | Automated Tests | Languages |
+| **706+** | **100** | **121** | **10+** |
+| UI Patterns & Components | AI Mock Interview Questions | Detective Investigation Cases | Cloud Platforms |
 
 ### 🎯 What I Do
-- **Frontend Development**: React, Next.js, Angular, Vue.js, TypeScript
+- **Frontend Development**: React, Next.js, Angular, Vue.js, SvelteKit, Astro.js, TypeScript
 - **Developer Tooling**: Interactive coding platforms, in-browser code execution, Monaco Editor
-- **AI Integration**: MediaPipe, WebLLM, AI-powered learning experiences
-- **Cloud & DevOps**: AWS, Vercel, Cloudflare Workers, Docker, CI/CD
+- **AI Integration**: MediaPipe, WebLLM, AI-powered learning and gesture recognition
+- **Cloud & DevOps**: Vercel, Cloudflare Workers, AWS, Azure, Netlify, Heroku, Docker, CI/CD
 
 ---
 
@@ -19,6 +28,7 @@ I'm a passionate full-stack developer who builds interactive developer tools and
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -154,10 +164,10 @@ Modern React reimagining of Wes Bos's JavaScript30 course. All 30 vanilla JS pro
 
 ## 🏆 Key Strengths
 
-- **🚀 Frontend Excellence**: Modern React apps with Next.js, TypeScript, and responsive design across 7+ production apps
-- **🛠️ Developer Tooling**: Interactive coding platforms with in-browser execution, Monaco Editor, and real-time validation
-- **🤖 AI Integration**: MediaPipe hand tracking, WebLLM for offline AI, and AI-powered learning experiences
-- **☁️ Cloud & DevOps**: Vercel, Cloudflare Workers, AWS deployment, and comprehensive test suites with Playwright & Vitest
+- **🚀 Frontend Excellence**: 20+ production apps across React, Angular, Vue, Svelte, Astro, and Gatsby — all fully responsive
+- **🛠️ Developer Tooling**: Built platforms with 8,700+ coding problems, in-browser execution, and 13,995 automated tests
+- **🤖 AI Integration**: Real-time MediaPipe hand tracking, offline WebLLM AI tutors, and 100 AI mock interview questions
+- **☁️ Multi-Cloud Deployment**: Shipped to 10+ platforms including Vercel, Cloudflare Workers, AWS, Azure, Netlify, and Heroku
 
 ---
 
