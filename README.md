@@ -152,14 +152,6 @@ Modern React reimagining of Wes Bos's JavaScript30 course. All 30 vanilla JS pro
 
 ---
 
-## 📊 GitHub Stats
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidagustin&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidagustin&layout=compact&theme=radical)
-
----
-
 ## 🏆 Key Strengths
 
 - **🚀 Frontend Excellence**: Modern React apps with Next.js, TypeScript, and responsive design across 7+ production apps
