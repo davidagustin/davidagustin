@@ -48,7 +48,7 @@ I build interactive developer tools and learning platforms used for mastering pr
 ### Coding Drills - Interactive Programming Practice Platform
 An interactive learning platform for mastering programming languages through hands-on practice. Thousands of problems across 25 languages and 4 frontend frameworks, with real-time code execution, algorithm visualizations, AI mock interviews, regex training, and more.
 
-[![Coding Drills Screenshot](https://davidagustin.github.io/screenshots/project-1.png)](https://coding-drills.vercel.app)
+<a href="https://coding-drills.vercel.app"><img src="https://davidagustin.github.io/screenshots/project-1.png" alt="Coding Drills Screenshot" width="600"></a>
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://coding-drills.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/coding-drills)
@@ -66,7 +66,7 @@ An interactive learning platform for mastering programming languages through han
 ### Spell Your Name - AI-Powered Sign Language Learning
 Learn to spell your name in American Sign Language with real-time AI-powered hand tracking using MediaPipe. Features personalized learning experience and comprehensive ASL alphabet reference.
 
-[![Spell Your Name Screenshot](https://davidagustin.github.io/screenshots/project-17.png)](https://spell-your-name.vercel.app/)
+<a href="https://spell-your-name.vercel.app/"><img src="https://davidagustin.github.io/screenshots/project-17.png" alt="Spell Your Name Screenshot" width="600"></a>
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://spell-your-name.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/spell-your-name)
@@ -84,7 +84,7 @@ Learn to spell your name in American Sign Language with real-time AI-powered han
 ### Backend Engineer Detective - Interactive Incident Investigation Game
 An interactive detective game where you investigate real-world backend engineering incidents. Analyze logs, metrics, code, and testimonies to diagnose root causes with an AI mentor to guide your investigation.
 
-[![Backend Engineer Detective Screenshot](https://davidagustin.github.io/screenshots/project-23.png)](https://backend-engineer-detective.app-production.workers.dev/)
+<a href="https://backend-engineer-detective.app-production.workers.dev/"><img src="https://davidagustin.github.io/screenshots/project-23.png" alt="Backend Engineer Detective Screenshot" width="600"></a>
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=cloudflare&logoColor=white)](https://backend-engineer-detective.app-production.workers.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/backend-engineer-detective)
@@ -102,7 +102,7 @@ An interactive detective game where you investigate real-world backend engineeri
 ### Coding Tricks Practice - LeetCode-Style Coding Platform
 A LeetCode-style coding platform focused on JavaScript and TypeScript mastery. Features 155+ challenges across 19 categories with Monaco Editor integration, sandboxed test runner, progress tracking, and real-time code validation.
 
-[![Coding Tricks Practice Screenshot](https://davidagustin.github.io/screenshots/project-24.png)](https://coding-tricks-practice.vercel.app)
+<a href="https://coding-tricks-practice.vercel.app"><img src="https://davidagustin.github.io/screenshots/project-24.png" alt="Coding Tricks Practice Screenshot" width="600"></a>
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://coding-tricks-practice.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/coding-tricks-practice)
@@ -120,7 +120,7 @@ A LeetCode-style coding platform focused on JavaScript and TypeScript mastery. F
 ### UI Patterns React - Production-Ready Component Collection
 Production-ready collection of 90+ modern React UI patterns and components. Includes interactive event calendars, advanced data tables, drag-and-drop interfaces, form patterns, navigation systems, and data visualizations.
 
-[![UI Patterns React Screenshot](https://davidagustin.github.io/screenshots/project-19.png)](https://ui-patterns-react.vercel.app/)
+<a href="https://ui-patterns-react.vercel.app/"><img src="https://davidagustin.github.io/screenshots/project-19.png" alt="UI Patterns React Screenshot" width="600"></a>
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://ui-patterns-react.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/ui-patterns-react)
@@ -138,7 +138,7 @@ Production-ready collection of 90+ modern React UI patterns and components. Incl
 ### System Design Practice - Interactive Learning Platform
 Interactive learning platform for mastering system design interviews. Covers 50 study topics, 40 core concepts, and 60 quiz questions spanning load balancing, database replication, caching strategies, microservices, event-driven architecture, and more.
 
-[![System Design Practice Screenshot](https://davidagustin.github.io/screenshots/project-18.png)](https://system-design-practice.vercel.app/)
+<a href="https://system-design-practice.vercel.app/"><img src="https://davidagustin.github.io/screenshots/project-18.png" alt="System Design Practice Screenshot" width="600"></a>
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://system-design-practice.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/system-design-practice)
@@ -156,7 +156,7 @@ Interactive learning platform for mastering system design interviews. Covers 50 
 ### React 30 - Modern React Reimagining of JavaScript30
 Modern React reimagining of Wes Bos's JavaScript30 course. All 30 vanilla JS projects rebuilt as type-safe React components using Next.js, TypeScript, and Tailwind CSS — covering DOM manipulation, Canvas API, WebRTC, Speech Recognition, Geolocation, and more.
 
-[![React 30 Screenshot](https://davidagustin.github.io/screenshots/project-25.png)](https://react-30-nu.vercel.app)
+<a href="https://react-30-nu.vercel.app"><img src="https://davidagustin.github.io/screenshots/project-25.png" alt="React 30 Screenshot" width="600"></a>
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://react-30-nu.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/react-30)
