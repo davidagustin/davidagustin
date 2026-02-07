@@ -172,3 +172,15 @@ Modern React reimagining of Wes Bos's JavaScript30 course. All 30 vanilla JS pro
 - Building AI-powered developer education tools
 - Creating production-ready UI component libraries
 - Exploring in-browser AI with WebLLM and WebGPU
+
+---
+
+## Support My Work
+
+If you find my projects useful, consider supporting development:
+
+[![Donate](https://img.shields.io/badge/Donate-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/fZucN5epreyuchqdtZfnO00)
+
+**BTC**: `bc1qkqrp0v0av6ch6ekm2e2scav93a0d83mawcjcd3`
+
+**ETH**: `0x846a124b1438f5dc657309e686c57b03647888f2`
