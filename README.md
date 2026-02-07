@@ -1,10 +1,10 @@
-# 👋 Hi there, I'm David Agustin
+# Hi there, I'm David Agustin
 
-## 🚀 Full Stack Developer
+## Full Stack Developer
 
 I build interactive developer tools and learning platforms used for mastering programming. 20+ shipped projects, 8,700+ coding problems authored, and 13,995 automated tests across 25 programming languages.
 
-### 📊 By the Numbers
+### By the Numbers
 
 | | | | |
 |:---:|:---:|:---:|:---:|
@@ -13,7 +13,7 @@ I build interactive developer tools and learning platforms used for mastering pr
 | **706+** | **100** | **121** | **10+** |
 | UI Patterns & Components | AI Mock Interview Questions | Detective Investigation Cases | Cloud Platforms |
 
-### 🎯 What I Do
+### What I Do
 - **Frontend Development**: React, Next.js, Angular, Vue.js, SvelteKit, Astro.js, TypeScript
 - **Developer Tooling**: Interactive coding platforms, in-browser code execution, Monaco Editor
 - **AI Integration**: MediaPipe, WebLLM, AI-powered learning and gesture recognition
@@ -21,7 +21,7 @@ I build interactive developer tools and learning platforms used for mastering pr
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -48,9 +48,9 @@ I build interactive developer tools and learning platforms used for mastering pr
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
-### 🤟 Spell Your Name - AI-Powered Sign Language Learning
+### Spell Your Name - AI-Powered Sign Language Learning
 Learn to spell your name in American Sign Language with real-time AI-powered hand tracking using MediaPipe. Features personalized learning experience and comprehensive ASL alphabet reference.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://spell-your-name.vercel.app/)
@@ -59,14 +59,14 @@ Learn to spell your name in American Sign Language with real-time AI-powered han
 **Tech Stack**: Next.js 15.4.5, React 19, TypeScript, Tailwind CSS, MediaPipe Hands
 
 **Key Features**:
-- 🎯 Real-time hand tracking with AI
-- 🤖 AI-powered gesture recognition
-- 📚 Personalized learning experience
-- 📖 Comprehensive ASL alphabet guide
+- Real-time hand tracking with AI
+- AI-powered gesture recognition
+- Personalized learning experience
+- Comprehensive ASL alphabet guide
 
 ---
 
-### 💻 Coding Drills - Interactive Programming Practice Platform
+### Coding Drills - Interactive Programming Practice Platform
 An interactive learning platform for mastering programming languages through hands-on practice. Thousands of problems across 25 languages and 4 frontend frameworks, with real-time code execution, algorithm visualizations, AI mock interviews, regex training, and more.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://coding-drills.vercel.app)
@@ -75,14 +75,14 @@ An interactive learning platform for mastering programming languages through han
 **Tech Stack**: Next.js 16, React 19, TypeScript, Tailwind CSS 4, Monaco Editor, WebLLM, Playwright, Vitest
 
 **Key Features**:
-- 🌐 25 languages with drill, quiz, and study modes
-- 🧩 170 algorithm pattern recognition problems
-- 🤖 AI mock interviews (algorithm + system design)
-- 🎨 460 frontend drill problems + 616 UI patterns across React, Angular, Vue, and Native JS
+- 25 languages with drill, quiz, and study modes
+- 170 algorithm pattern recognition problems
+- AI mock interviews (algorithm + system design)
+- 460 frontend drill problems + 616 UI patterns across React, Angular, Vue, and Native JS
 
 ---
 
-### 🔍 Backend Engineer Detective - Interactive Incident Investigation Game
+### Backend Engineer Detective - Interactive Incident Investigation Game
 An interactive detective game where you investigate real-world backend engineering incidents. Analyze logs, metrics, code, and testimonies to diagnose root causes with an AI mentor to guide your investigation.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=cloudflare&logoColor=white)](https://backend-engineer-detective.app-production.workers.dev/)
@@ -91,14 +91,14 @@ An interactive detective game where you investigate real-world backend engineeri
 **Tech Stack**: Cloudflare Workers, TypeScript
 
 **Key Features**:
-- 🕵️ 121 investigation cases across 11 categories
-- 📈 Junior to Principal difficulty levels
-- 📊 Analyze logs, metrics, code, and testimonies
-- 🤖 AI mentor guidance
+- 121 investigation cases across 11 categories
+- Junior to Principal difficulty levels
+- Analyze logs, metrics, code, and testimonies
+- AI mentor guidance
 
 ---
 
-### 🧪 Coding Tricks Practice - LeetCode-Style Coding Platform
+### Coding Tricks Practice - LeetCode-Style Coding Platform
 A LeetCode-style coding platform focused on JavaScript and TypeScript mastery. Features 155+ challenges across 19 categories with Monaco Editor integration, sandboxed test runner, progress tracking, and real-time code validation.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://coding-tricks-practice.vercel.app)
@@ -107,14 +107,14 @@ A LeetCode-style coding platform focused on JavaScript and TypeScript mastery. F
 **Tech Stack**: Next.js, TypeScript, Monaco Editor
 
 **Key Features**:
-- 📝 155+ coding challenges
-- 📂 19 categories of problems
-- 🧪 40+ test suites with sandboxed runner
-- 📊 Progress tracking and real-time validation
+- 155+ coding challenges
+- 19 categories of problems
+- 40+ test suites with sandboxed runner
+- Progress tracking and real-time validation
 
 ---
 
-### 🎨 UI Patterns React - Production-Ready Component Collection
+### UI Patterns React - Production-Ready Component Collection
 Production-ready collection of 90+ modern React UI patterns and components. Includes interactive event calendars, advanced data tables, drag-and-drop interfaces, form patterns, navigation systems, and data visualizations.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://ui-patterns-react.vercel.app/)
@@ -123,14 +123,14 @@ Production-ready collection of 90+ modern React UI patterns and components. Incl
 **Tech Stack**: React, TypeScript, Next.js
 
 **Key Features**:
-- 🧩 90+ production-ready components
-- 📁 5 pattern categories
-- 📅 Interactive event calendars and data tables
-- 🖱️ Drag-and-drop interfaces
+- 90+ production-ready components
+- 5 pattern categories
+- Interactive event calendars and data tables
+- Drag-and-drop interfaces
 
 ---
 
-### 🏗️ System Design Practice - Interactive Learning Platform
+### System Design Practice - Interactive Learning Platform
 Interactive learning platform for mastering system design interviews. Covers 50 study topics, 40 core concepts, and 60 quiz questions spanning load balancing, database replication, caching strategies, microservices, event-driven architecture, and more.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://system-design-practice.vercel.app/)
@@ -139,14 +139,14 @@ Interactive learning platform for mastering system design interviews. Covers 50 
 **Tech Stack**: Next.js, TypeScript, Tailwind CSS
 
 **Key Features**:
-- 📖 50 study topics with detailed explanations
-- 🧠 40 core system design concepts
-- ❓ 60 quiz questions
-- 🏛️ Covers load balancing, caching, microservices, and more
+- 50 study topics with detailed explanations
+- 40 core system design concepts
+- 60 quiz questions
+- Covers load balancing, caching, microservices, and more
 
 ---
 
-### ⚛️ React 30 - Modern React Reimagining of JavaScript30
+### React 30 - Modern React Reimagining of JavaScript30
 Modern React reimagining of Wes Bos's JavaScript30 course. All 30 vanilla JS projects rebuilt as type-safe React components using Next.js, TypeScript, and Tailwind CSS — covering DOM manipulation, Canvas API, WebRTC, Speech Recognition, Geolocation, and more.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://react-30-nu.vercel.app)
@@ -155,23 +155,23 @@ Modern React reimagining of Wes Bos's JavaScript30 course. All 30 vanilla JS pro
 **Tech Stack**: Next.js, React, TypeScript, Tailwind CSS
 
 **Key Features**:
-- 🔄 30 projects rebuilt in modern React
-- 🎨 Canvas API, WebRTC, Speech Recognition
-- 📱 Fully responsive and type-safe
-- 🎓 Learn React patterns through practical projects
+- 30 projects rebuilt in modern React
+- Canvas API, WebRTC, Speech Recognition
+- Fully responsive and type-safe
+- Learn React patterns through practical projects
 
 ---
 
-## 🏆 Key Strengths
+## Key Strengths
 
-- **🚀 Frontend Excellence**: 20+ production apps across React, Angular, Vue, Svelte, Astro, and Gatsby — all fully responsive
-- **🛠️ Developer Tooling**: Built platforms with 8,700+ coding problems, in-browser execution, and 13,995 automated tests
-- **🤖 AI Integration**: Real-time MediaPipe hand tracking, offline WebLLM AI tutors, and 100 AI mock interview questions
-- **☁️ Multi-Cloud Deployment**: Shipped to 10+ platforms including Vercel, Cloudflare Workers, AWS, Azure, Netlify, and Heroku
+- **Frontend Excellence**: 20+ production apps across React, Angular, Vue, Svelte, Astro, and Gatsby — all fully responsive
+- **Developer Tooling**: Built platforms with 8,700+ coding problems, in-browser execution, and 13,995 automated tests
+- **AI Integration**: Real-time MediaPipe hand tracking, offline WebLLM AI tutors, and 100 AI mock interview questions
+- **Multi-Cloud Deployment**: Shipped to 10+ platforms including Vercel, Cloudflare Workers, AWS, Azure, Netlify, and Heroku
 
 ---
 
-## 📫 Get In Touch
+## Get In Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsyagustin/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidsyagustin@gmail.com)
@@ -179,15 +179,9 @@ Modern React reimagining of Wes Bos's JavaScript30 course. All 30 vanilla JS pro
 
 ---
 
-## 🎯 Currently Working On
+## Currently Working On
 
-- 🔥 Expanding Coding Drills with new languages and algorithm visualizations
-- 🤖 Building AI-powered developer education tools
-- 🎨 Creating production-ready UI component libraries
-- 💡 Exploring in-browser AI with WebLLM and WebGPU
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=davidagustin&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+- Expanding Coding Drills with new languages and algorithm visualizations
+- Building AI-powered developer education tools
+- Creating production-ready UI component libraries
+- Exploring in-browser AI with WebLLM and WebGPU
