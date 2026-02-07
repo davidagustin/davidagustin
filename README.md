@@ -2,13 +2,13 @@
 
 ## 🚀 Full Stack Developer
 
-I'm a passionate full-stack developer with expertise in modern web technologies, artificial intelligence, and machine learning. I love creating innovative solutions that solve real-world problems and deliver exceptional user experiences.
+I'm a passionate full-stack developer who builds interactive developer tools and learning platforms. I specialize in modern web technologies and AI integration, creating applications that help developers level up their skills.
 
 ### 🎯 What I Do
 - **Frontend Development**: React, Next.js, Angular, Vue.js, TypeScript
-- **Backend Development**: Node.js, Python, Express.js, REST APIs
-- **AI/ML Integration**: Machine Learning, Data Analysis, AI APIs
-- **Cloud & DevOps**: AWS, Azure, Vercel, Docker, CI/CD
+- **Developer Tooling**: Interactive coding platforms, in-browser code execution, Monaco Editor
+- **AI Integration**: MediaPipe, WebLLM, AI-powered learning experiences
+- **Cloud & DevOps**: AWS, Vercel, Cloudflare Workers, Docker, CI/CD
 
 ---
 
@@ -22,18 +22,17 @@ I'm a passionate full-stack developer with expertise in modern web technologies,
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & AI
+### Backend & Tooling
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -57,51 +56,99 @@ Learn to spell your name in American Sign Language with real-time AI-powered han
 
 ---
 
-### 📊 ML Analysis Dashboard - 20 Newsgroups Dataset
-A comprehensive machine learning analysis dashboard for the 20 Newsgroups dataset, featuring advanced hyperparameter tuning, model comparison, and interactive visualizations.
+### 💻 Coding Drills - Interactive Programming Practice Platform
+An interactive learning platform for mastering programming languages through hands-on practice. Thousands of problems across 25 languages and 4 frontend frameworks, with real-time code execution, algorithm visualizations, AI mock interviews, regex training, and more.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://machine-learning-project-theta.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/machine-learning-project)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://coding-drills.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/coding-drills)
 
-**Tech Stack**: Next.js 15, React 18, TypeScript, Material-UI 5, Python, Scikit-learn, XGBoost, LightGBM
+**Tech Stack**: Next.js 16, React 19, TypeScript, Tailwind CSS 4, Monaco Editor, WebLLM, Playwright, Vitest
 
 **Key Features**:
-- 🔬 10+ ML algorithms comparison
-- 📊 Interactive visualizations
-- ⚙️ Advanced hyperparameter tuning
-- 🔄 Real-time model comparison
+- 🌐 25 languages with drill, quiz, and study modes
+- 🧩 170 algorithm pattern recognition problems
+- 🤖 AI mock interviews (algorithm + system design)
+- 🎨 460 frontend drill problems + 616 UI patterns across React, Angular, Vue, and Native JS
 
 ---
 
-### 🧠 AI Learning Hub - Comprehensive ML Education Platform
-A comprehensive Next.js application for learning AI and machine learning concepts through interactive mnemonics, character-based learning, and quizzes with 30+ learning sections and hundreds of quiz questions.
+### 🔍 Backend Engineer Detective - Interactive Incident Investigation Game
+An interactive detective game where you investigate real-world backend engineering incidents. Analyze logs, metrics, code, and testimonies to diagnose root causes with an AI mentor to guide your investigation.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://comprehensive-ai-learning-app.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/comprehensive-ai-learning-app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=cloudflare&logoColor=white)](https://backend-engineer-detective.app-production.workers.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/backend-engineer-detective)
 
-**Tech Stack**: Next.js 15, TypeScript, Tailwind CSS, React Hooks
+**Tech Stack**: Cloudflare Workers, TypeScript
 
 **Key Features**:
-- 🎓 Interactive learning modules
-- ❓ Hundreds of quiz questions
-- 👤 Character-based learning
-- 📚 30+ AI/ML topics covered
+- 🕵️ 121 investigation cases across 11 categories
+- 📈 Junior to Principal difficulty levels
+- 📊 Analyze logs, metrics, code, and testimonies
+- 🤖 AI mentor guidance
 
 ---
 
-### 📚 Rules of Machine Learning - Memorization App
-A modern, interactive web application to help memorize Google's 43 Rules of Machine Learning Engineering with three study modes and progress tracking.
+### 🧪 Coding Tricks Practice - LeetCode-Style Coding Platform
+A LeetCode-style coding platform focused on JavaScript and TypeScript mastery. Features 155+ challenges across 19 categories with Monaco Editor integration, sandboxed test runner, progress tracking, and real-time code validation.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://rules-of-machine-learning.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/rules-of-machine-learning)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://coding-tricks-practice.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/coding-tricks-practice)
 
-**Tech Stack**: Next.js 15, TypeScript, Tailwind CSS
+**Tech Stack**: Next.js, TypeScript, Monaco Editor
 
 **Key Features**:
-- 📖 43 ML Engineering Rules
-- 🎯 Three study modes (Browse, Study, Flashcard)
-- Category filtering
-- 📊 Progress tracking
+- 📝 155+ coding challenges
+- 📂 19 categories of problems
+- 🧪 40+ test suites with sandboxed runner
+- 📊 Progress tracking and real-time validation
+
+---
+
+### 🎨 UI Patterns React - Production-Ready Component Collection
+Production-ready collection of 90+ modern React UI patterns and components. Includes interactive event calendars, advanced data tables, drag-and-drop interfaces, form patterns, navigation systems, and data visualizations.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://ui-patterns-react.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/ui-patterns-react)
+
+**Tech Stack**: React, TypeScript, Next.js
+
+**Key Features**:
+- 🧩 90+ production-ready components
+- 📁 5 pattern categories
+- 📅 Interactive event calendars and data tables
+- 🖱️ Drag-and-drop interfaces
+
+---
+
+### 🏗️ System Design Practice - Interactive Learning Platform
+Interactive learning platform for mastering system design interviews. Covers 50 study topics, 40 core concepts, and 60 quiz questions spanning load balancing, database replication, caching strategies, microservices, event-driven architecture, and more.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://system-design-practice.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/system-design-practice)
+
+**Tech Stack**: Next.js, TypeScript, Tailwind CSS
+
+**Key Features**:
+- 📖 50 study topics with detailed explanations
+- 🧠 40 core system design concepts
+- ❓ 60 quiz questions
+- 🏛️ Covers load balancing, caching, microservices, and more
+
+---
+
+### ⚛️ React 30 - Modern React Reimagining of JavaScript30
+Modern React reimagining of Wes Bos's JavaScript30 course. All 30 vanilla JS projects rebuilt as type-safe React components using Next.js, TypeScript, and Tailwind CSS — covering DOM manipulation, Canvas API, WebRTC, Speech Recognition, Geolocation, and more.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://react-30-nu.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/react-30)
+
+**Tech Stack**: Next.js, React, TypeScript, Tailwind CSS
+
+**Key Features**:
+- 🔄 30 projects rebuilt in modern React
+- 🎨 Canvas API, WebRTC, Speech Recognition
+- 📱 Fully responsive and type-safe
+- 🎓 Learn React patterns through practical projects
 
 ---
 
@@ -115,10 +162,10 @@ A modern, interactive web application to help memorize Google's 43 Rules of Mach
 
 ## 🏆 Key Strengths
 
-- **🚀 Frontend Excellence**: Modern React apps with Next.js, TypeScript, and responsive design
-- **⚡ Backend Development**: Scalable APIs with Node.js, Python, and robust database design  
-- **🤖 AI Integration**: Machine learning models, AI APIs, and intelligent automation
-- **☁️ Cloud & DevOps**: AWS deployment, Docker containers, and CI/CD pipelines
+- **🚀 Frontend Excellence**: Modern React apps with Next.js, TypeScript, and responsive design across 7+ production apps
+- **🛠️ Developer Tooling**: Interactive coding platforms with in-browser execution, Monaco Editor, and real-time validation
+- **🤖 AI Integration**: MediaPipe hand tracking, WebLLM for offline AI, and AI-powered learning experiences
+- **☁️ Cloud & DevOps**: Vercel, Cloudflare Workers, AWS deployment, and comprehensive test suites with Playwright & Vitest
 
 ---
 
@@ -132,10 +179,10 @@ A modern, interactive web application to help memorize Google's 43 Rules of Mach
 
 ## 🎯 Currently Working On
 
-- 🔥 Building scalable AI-powered applications
-- Exploring advanced machine learning techniques
-- 💡 Contributing to open-source projects
-- 📚 Learning new technologies and frameworks
+- 🔥 Expanding Coding Drills with new languages and algorithm visualizations
+- 🤖 Building AI-powered developer education tools
+- 🎨 Creating production-ready UI component libraries
+- 💡 Exploring in-browser AI with WebLLM and WebGPU
 
 ---
 
