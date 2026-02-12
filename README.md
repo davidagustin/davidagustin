@@ -99,21 +99,21 @@ An interactive detective game where you investigate real-world backend engineeri
 
 ---
 
-### Coding Tricks Practice - LeetCode-Style Coding Platform
-A LeetCode-style coding platform focused on JavaScript and TypeScript mastery. Features 155+ challenges across 19 categories with Monaco Editor integration, sandboxed test runner, progress tracking, and real-time code validation.
+### TypeCode - Precision Typing Practice for Programmers
+Precision typing practice application for programmers. Type syntactically correct code across 12 languages with real-time WPM and accuracy tracking, custom code upload with drag-and-drop, and language-aware comment auto-completion.
 
-<a href="https://coding-tricks-practice.vercel.app"><img src="https://davidagustin.github.io/screenshots/project-24.png" alt="Coding Tricks Practice Screenshot" width="600"></a>
+<a href="https://typing-app.app-production.workers.dev/"><img src="https://davidagustin.github.io/screenshots/project-26.png" alt="TypeCode Screenshot" width="600"></a>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://coding-tricks-practice.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/coding-tricks-practice)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=cloudflare&logoColor=white)](https://typing-app.app-production.workers.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/typing-app)
 
-**Tech Stack**: Next.js, TypeScript, Monaco Editor
+**Tech Stack**: React 19, TypeScript 5.9, React Router 7, Tailwind CSS 4, Cloudflare Workers
 
 **Key Features**:
-- 155+ coding challenges
-- 19 categories of problems
-- 40+ test suites with sandboxed runner
-- Progress tracking and real-time validation
+- 12 built-in language lessons (JavaScript, TypeScript, Python, Rust, Go, and more)
+- Real-time WPM and accuracy tracking with performance ratings
+- Custom code upload with drag-and-drop and auto-detection for 20+ file extensions
+- Edge deployment on Cloudflare Workers with SSR
 
 ---
 
@@ -153,21 +153,21 @@ Interactive learning platform for mastering system design interviews. Covers 50 
 
 ---
 
-### React 30 - Modern React Reimagining of JavaScript30
-Modern React reimagining of Wes Bos's JavaScript30 course. All 30 vanilla JS projects rebuilt as type-safe React components using Next.js, TypeScript, and Tailwind CSS — covering DOM manipulation, Canvas API, WebRTC, Speech Recognition, Geolocation, and more.
+### Game Room - Real-Time Multiplayer Game Platform
+Real-time multiplayer game platform with Chess and Tic-Tac-Toe. Turborepo monorepo with Expo React Native client, Fastify server, and shared game logic. Features Socket.IO rooms, AI opponents with minimax/alpha-beta pruning, ELO ratings, and full AWS infrastructure-as-code.
 
-<a href="https://react-30-nu.vercel.app"><img src="https://davidagustin.github.io/screenshots/project-25.png" alt="React 30 Screenshot" width="600"></a>
+<a href="https://game-practice-aws.com/"><img src="https://davidagustin.github.io/screenshots/project-27.png" alt="Game Room Screenshot" width="600"></a>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://react-30-nu.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/react-30)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://game-practice-aws.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/tic-tac-toe)
 
-**Tech Stack**: Next.js, React, TypeScript, Tailwind CSS
+**Tech Stack**: Expo 52, Fastify 5, Socket.IO, PostgreSQL, Redis, Docker, Terraform, AWS
 
 **Key Features**:
-- 30 projects rebuilt in modern React
-- Canvas API, WebRTC, Speech Recognition
-- Fully responsive and type-safe
-- Learn React patterns through practical projects
+- Real-time multiplayer Chess and Tic-Tac-Toe with spectator mode
+- AI opponents with minimax and alpha-beta pruning at 3 difficulty levels
+- Dual-storage pattern: Redis for ephemeral state, PostgreSQL for persistent data
+- Full IaC with Terraform, multi-stage Docker builds, and CI/CD via GitHub Actions
 
 ---
 
