@@ -100,7 +100,7 @@ An interactive detective game where you investigate real-world backend engineeri
 ---
 
 ### TypeCode - Precision Typing Practice for Programmers
-Precision typing practice application for programmers. Type syntactically correct code across 12 languages with real-time WPM and accuracy tracking, custom code upload with drag-and-drop, and language-aware comment auto-completion.
+Precision typing practice application for programmers. Type syntactically correct code across 49 lessons spanning 46 languages including React, Angular, and Vue with syntax highlighting, real-time WPM and accuracy tracking, custom code upload with drag-and-drop, and language-aware comment auto-completion.
 
 <a href="https://typing-app.app-production.workers.dev/"><img src="https://davidagustin.github.io/screenshots/project-26.png" alt="TypeCode Screenshot" width="600"></a>
 
@@ -110,8 +110,10 @@ Precision typing practice application for programmers. Type syntactically correc
 **Tech Stack**: React 19, TypeScript 5.9, React Router 7, Tailwind CSS 4, Cloudflare Workers
 
 **Key Features**:
-- 12 built-in language lessons (JavaScript, TypeScript, Python, Rust, Go, and more)
+- 49 built-in lessons across 46 languages (JavaScript, TypeScript, Python, Rust, Go, React, Angular, Vue, and more)
+- Syntax highlighting with word-completion color reveal
 - Real-time WPM and accuracy tracking with performance ratings
+- Language-aware comment auto-completion with inline comment detection
 - Custom code upload with drag-and-drop and auto-detection for 20+ file extensions
 - Edge deployment on Cloudflare Workers with SSR
 
