@@ -137,21 +137,21 @@ Production-ready collection of 90+ modern React UI patterns and components. Incl
 
 ---
 
-### System Design Practice - Interactive Learning Platform
-Interactive learning platform for mastering system design interviews. Covers 50 study topics, 40 core concepts, and 60 quiz questions spanning load balancing, database replication, caching strategies, microservices, event-driven architecture, and more.
+### Algomations - Algorithm Visualization Platform
+Interactive visualization platform for mastering coding interview algorithms. 301 problems across 19 pattern categories with step-by-step code execution, real-time data structure animations, multi-language code display, and an AI tutor powered by WebLLM.
 
-<a href="https://system-design-practice.vercel.app/"><img src="https://davidagustin.github.io/screenshots/project-18.png" alt="System Design Practice Screenshot" width="600"></a>
+<a href="https://algomations.vercel.app"><img src="https://davidagustin.github.io/screenshots/project-18.png" alt="Algomations Screenshot" width="600"></a>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://system-design-practice.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/system-design-practice)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://algomations.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidagustin/algorithm-visualizations)
 
-**Tech Stack**: Next.js, TypeScript, Tailwind CSS
+**Tech Stack**: Next.js 16, React 19, TypeScript, Tailwind CSS 4, Framer Motion, WebLLM
 
 **Key Features**:
-- 50 study topics with detailed explanations
-- 40 core system design concepts
-- 60 quiz questions
-- Covers load balancing, caching, microservices, and more
+- 301 algorithm visualizations across 19 pattern categories
+- Step-by-step code execution with variable tracking
+- Interview recommended filter with curated problem set
+- AI tutor with on-device LLM (no API keys needed)
 
 ---
 
