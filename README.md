@@ -63,6 +63,24 @@ An interactive learning platform for mastering programming languages through han
 
 ---
 
+### Pickleball Research - Data-Driven Sports Analytics Platform
+A comprehensive pickleball research platform with 29 interactive pages covering equipment science, pro analytics, and strategy tools. Features a 587-paddle database with radar comparisons, real-time PPA tournament tracking with live scores, a paddle physics simulator with weight distribution modeling, an interactive tactical whiteboard, 130+ training drills, and 160 professional player profiles — all with hand-coded SVG visualizations and zero charting libraries.
+
+<a href="https://pickleball-research.vercel.app/"><img src="https://davidagustin.github.io/screenshots/project-28.png" alt="Pickleball Research Screenshot" width="600"></a>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://pickleball-research.vercel.app/)
+
+**Tech Stack**: Next.js 16, React 19, TypeScript, Tailwind CSS 4, Cloudflare Workers, Puppeteer, Vitest
+
+**Key Features**:
+- 587-paddle database with multi-filter search, radar chart comparisons, and 27 tracked spec dimensions
+- Real-time PPA Tour integration with live match scores, win probability, and 6 ranking categories
+- Paddle physics lab with 11-zone weight simulator, swing weight/twist weight calculations, and 3D rotation preview
+- Interactive tactical whiteboard with 7 draw tools, 6 shot stamps, and animated court formations
+- 46,000-line interactive magazine, 160 pro player profiles, and 130+ categorized training drills
+
+---
+
 ### Spell Your Name - AI-Powered Sign Language Learning
 Learn to spell your name in American Sign Language with real-time AI-powered hand tracking using MediaPipe. Features personalized learning experience and comprehensive ASL alphabet reference.
 
